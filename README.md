@@ -10,4 +10,6 @@ The next image show to the left the bionic arm printed in 3D and to the right th
 
 
 # Block diagram of the system
+This image show the block diagram of the complete system 
+
 ![bloquesFin](https://user-images.githubusercontent.com/19544865/71300837-74731180-2377-11ea-8052-e60912d621a5.png)
