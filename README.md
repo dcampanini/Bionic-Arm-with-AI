@@ -15,6 +15,6 @@ Additionally the bionic arm has a Arduino Due in which run a Support Vector Mach
 
 
 # Block diagram of the system
-This image show the block diagram of the complete system 
+This image shows the block diagram of the complete system 
 
 ![bloquesFin](https://user-images.githubusercontent.com/19544865/71300837-74731180-2377-11ea-8052-e60912d621a5.png)
