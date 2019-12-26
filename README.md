@@ -5,7 +5,7 @@ The next image shows to the left the bionic arm printed in 3D and to the right t
 
 ![arm3d](https://user-images.githubusercontent.com/19544865/71301620-24e51380-2380-11ea-8530-0efa341050da.png)
 
-Additionally the bionic arm has a Arduino Due in which run a Support Vector Machine (SVM) to classify movement based in the features calculated over the EMG signal from the arm of a person. The implemented SVM can  recognize 4 movements: cylindrical for holding cylindrical tool, hook for supporting a heavy load, clenched fist and quiet hand. The next figure shows the 4 movements
+Additionally the bionic arm has an Arduino Due in which runs a Support Vector Machine (SVM) to classify movements based in the features calculated over the EMG signal from the arm of a person. The implemented SVM can  recognize 4 movements: cylindrical for holding cylindrical tool, hook for supporting a heavy load, clenched fist and quiet hand. The next figure shows the 4 movements
 
 ![mov4_cut](https://user-images.githubusercontent.com/19544865/71301628-5067fe00-2380-11ea-9b75-e6c8c13cf8f6.png)
 
